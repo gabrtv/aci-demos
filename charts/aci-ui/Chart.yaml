@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Image Recongition demo for ACI - ui component 
+name: aci-ui
+version: 0.1.0
